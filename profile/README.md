@@ -21,3 +21,8 @@ Our packges are listed below:
 - [work_vision](https://github.com/FBOTWork/work_vision)
 - [work_navigation](https://github.com/FBOTWork/work_navigation)
 - [work_manipulation](https://github.com/FBOTWork/work_manipulation)
+
+### Awards
+- Brazilian Robotics Competition
+
+  - 2024: 2nd Place
