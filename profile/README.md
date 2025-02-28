@@ -14,6 +14,7 @@ The FBOT@Work was founded in 2023 by FBOT from Universidade Federal do Rio Grand
 
 ### Publications
 - [Team Description Paper 2024](https://drive.google.com/file/d/1yO1v0ZhKa_G1UaJ3S2aH4zJHC0cj99D5/view?usp=drive_link)
+- [Team Description Paper 2025 (Robocup)](https://drive.google.com/file/d/1FYD7_3_iGTZkD3xP8krVZclJsw9IzPSS/view?usp=sharing)
 
 ### Packages
 
