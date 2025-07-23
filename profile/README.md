@@ -27,3 +27,6 @@ Our packges are listed below:
 - Brazilian Robotics Competition
 
   - 2024: 2nd Place
+
+- RoboCup
+  - 2025: 5th Place
