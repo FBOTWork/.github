@@ -31,7 +31,8 @@ Vision:
 
 Navigation:
 
-- [work_navigation]()
+- [micky_navigation](https://github.com/FBOTWork/micky_navigation.git)
+- [micky_world](https://github.com/FBOTWork/micky_world.git)
 
 Manipulation:
 
