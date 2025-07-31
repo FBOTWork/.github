@@ -18,15 +18,30 @@ The FBOT@Work was founded in 2023 by FBOT from Universidade Federal do Rio Grand
 
 ### Packages
 
-Our packges are listed below:
+Our ROS Kinetic packages are listed below:
 - [work_vision](https://github.com/FBOTWork/work_vision)
 - [work_navigation](https://github.com/FBOTWork/work_navigation)
 - [work_manipulation](https://github.com/FBOTWork/work_manipulation)
+
+Our ROS 2 packages are listed below:
+
+Vision:
+
+- [work_vision]()
+
+Navigation:
+
+- [work_navigation]()
+
+Manipulation:
+
+- [micky_arm](https://github.com/FBOTWork/micky_arm.git)
+- [micky_arbotix](https://github.com/FBOTWork/micky_arbotix.git)
 
 ### Awards
 - Brazilian Robotics Competition
 
   - 2024: 2nd Place
 
-- RoboCup
+- RoboCup Salvador
   - 2025: 5th Place
