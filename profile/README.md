@@ -42,7 +42,8 @@ Manipulation:
 ### Awards
 - Brazilian Robotics Competition
 
-  - 2024: 2nd Place
+  - 2024: 2nd Place 🥈
+  - 2025: 1st Place 🥇
 
-- RoboCup Salvador
-  - 2025: 5th Place
+- RoboCup
+  - Salvador 2025: 5th Place 
