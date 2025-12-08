@@ -1,4 +1,4 @@
-# FBOT@Work Robotics Team
+# <img width="8897" height="719" alt="Image" src="https://github.com/user-attachments/assets/5a028b8c-8f54-48b6-837c-a9633d6cd297" />
 
 The FBOT@Work was founded in 2023 by FBOT from Universidade Federal do Rio Grande (FURG).
 
