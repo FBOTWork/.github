@@ -20,14 +20,14 @@ The FBOT@Work was founded in 2023 by FBOT from Universidade Federal do Rio Grand
 - [Team Description Paper 2026 (Robocup)](https://drive.google.com/file/d/1GSc-1l0LSWJ7LYK-F32mHgTj7WowJuS2/view?usp=sharing)
 
 ### Packages
-Our ROS 1 packages are listed below:
+Our ROS1 packages are listed below:
 
 - [work_behavior](https://github.com/FBOTWork/work_behavior)
 - [work_manipulation](https://github.com/FBOTWork/work_manipulation)
 - [work_navigation](https://github.com/FBOTWork/work_navigation)
 - [work_vision](https://github.com/FBOTWork/work_vision)
 
-Our ROS 2 packages are listed below:
+Our ROS2 packages are listed below:
 
 - [micky_behavior](https://github.com/FBOTWork/micky_behavior.git)
 - [micky_manipulation](https://github.com/FBOTWork/micky_manipulation.git)
