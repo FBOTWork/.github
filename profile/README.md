@@ -42,4 +42,5 @@ Our ROS2 packages are listed below:
   - 2025: 1st Place 🥇
 
 - RoboCup
-  - Salvador 2025: 5th Place 
+  - Salvador 2025: 5th Place
+  - Incheon 2026: 4th Place
