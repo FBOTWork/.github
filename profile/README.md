@@ -1,11 +1,11 @@
-# <img width="8897" height="719" alt="Image" src="https://github.com/user-attachments/assets/5a028b8c-8f54-48b6-837c-a9633d6cd297" />
+# <img width="3402" height="307" alt="Image" src="https://github.com/user-attachments/assets/942faa9b-0d63-493a-bdea-edde8fd02fab" />
 
 The FBOT@Work was founded in 2023 by FBOT from Universidade Federal do Rio Grande (FURG).
 
 ### About Us
 
 - We are a robotics team focused on industrial solutions.
-- We currently work with the Turtlebot2i robot.
+- We work with MICKY, a robot developed by our team.
 - This github is intended to organize and contribute to the community through the documents generated in our activities.
 
 <!-- ### Research
@@ -29,9 +29,11 @@ Our ROS1 packages are listed below:
 
 Our ROS2 packages are listed below:
 
+- [fbot_manipulator](https://github.com/FBOTWork/fbot_manipulator.git)
 - [micky_behavior](https://github.com/FBOTWork/micky_behavior.git)
-- [micky_manipulation](https://github.com/FBOTWork/micky_manipulation.git)
+- [micky_description](https://github.com/FBOTWork/micky_description.git)
 - [micky_navigation](https://github.com/FBOTWork/micky_navigation.git)
+- [micky_simulation](https://github.com/FBOTWork/micky_simulation.git)
 - [micky_vision](https://github.com/FBOTWork/micky_vision.git)
 - [micky_world](https://github.com/FBOTWork/micky_world.git)
 
